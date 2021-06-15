@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://www.clipartkey.com/mpngs/m/186-1867266_theme-background-for-baby.png");
+    background-size:cover;
+    background-position-y:-150px;
+}
+.heading {
+    margin-top:0px;
+    margin-bottom: 10px;
+    font-family: 'Viaoda Libre', cursive;
+    font-weight:bold;
+    letter-spacing: 5px;
+    font-size:50px;
+    color:rgb(17, 27, 119);
+    text-shadow: rgb(250, 160, 175) 2px 2px 5px;
+    padding:10px;
+}
+footer {
+    width:100%;
+    text-align:center;
+    color:red;
+    background: url("https://th.bing.com/th/id/OIP.qKKuIJBmPErwTGZaA97o6QHaHa?pid=ImgDet&w=800&h=800&rs=1");
+    position:fixed;
+    bottom:0;
+    font-size:20px;
+    font-family: 'Do Hyeon', sans-serif;
+    line-height:2.5;
+    background-position: center;
+}
+#note {
+    color:red;
+    font-family:cursive;
+    font-size:20px;
+    margin:0px;
+    background-color:aquamarine;
+    padding:5px;
+}
+h2 {
+    font-size:20px !important;
+    margin:5px !important;
+    width:fit-content;
+    padding:10px !important;
+}
+canvas {
+    border:5px solid teal;
+    border-radius:20px;
+    margin-top:100px;
+    box-shadow:lightsalmon 0px 0px 35px;
+}
